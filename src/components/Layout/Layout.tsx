@@ -26,7 +26,8 @@ export default function Layout({
 }
 
 Layout.defaultProps = {
-  keywords: "technology JavaScript Go Front-End Back-End C# PHP Devops Linux",
+  keywords:
+    "technology JavaScript Go Front-End Back-End C# PHP Devops Linux React Python",
   description:
     "Web Development Forum made using Next.js with a PHP/Laravel backend.",
 };
